@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{366:function(t,n,e){"use strict";e.r(n);var l={},c=e(10),component=Object(c.a)(l,(function(){var t=this.$createElement;return(this._self._c||t)("div",{staticClass:"login"},[this._v("加入联盟")])}),[],!1,null,null,null);n.default=component.exports}}]);

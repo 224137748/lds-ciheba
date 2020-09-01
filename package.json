@@ -1,0 +1,23 @@
+{
+  "name": "lds-ciheba",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "analyze": "nuxt build --analyze"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "babel-plugin-component": "^1.1.1",
+    "element-ui": "^2.13.2",
+    "install": "^0.13.0",
+    "nuxt": "^2.14.0"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "sass-loader": "^10.0.1"
+  }
+}

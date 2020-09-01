@@ -1,0 +1,27 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/activity.js": "pages/activity.js",
+    "pages/connect.js": "pages/connect.js",
+    "pages/index.js": "pages/index.js",
+    "pages/introduce.js": "pages/introduce.js",
+    "pages/join.js": "pages/join.js",
+    "pages/login.js": "pages/login.js",
+    "pages/news.js": "pages/news.js",
+    "pages/publish.js": "pages/publish.js",
+    "pages/user.js": "pages/user.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/activity.js": "pages/activity.js.map",
+    "pages/connect.js": "pages/connect.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/introduce.js": "pages/introduce.js.map",
+    "pages/join.js": "pages/join.js.map",
+    "pages/login.js": "pages/login.js.map",
+    "pages/news.js": "pages/news.js.map",
+    "pages/publish.js": "pages/publish.js.map",
+    "pages/user.js": "pages/user.js.map",
+    "server.js": "server.js.map"
+  }
+}

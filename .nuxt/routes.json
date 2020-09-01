@@ -1,0 +1,56 @@
+[
+  {
+    "name": "activity",
+    "path": "/activity",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\activity.vue",
+    "chunkName": "pages/activity"
+  },
+  {
+    "name": "connect",
+    "path": "/connect",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\connect.vue",
+    "chunkName": "pages/connect"
+  },
+  {
+    "name": "introduce",
+    "path": "/introduce",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\introduce.vue",
+    "chunkName": "pages/introduce"
+  },
+  {
+    "name": "join",
+    "path": "/join",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\join.vue",
+    "chunkName": "pages/join"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "news",
+    "path": "/news",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\news.vue",
+    "chunkName": "pages/news"
+  },
+  {
+    "name": "publish",
+    "path": "/publish",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\publish.vue",
+    "chunkName": "pages/publish"
+  },
+  {
+    "name": "user",
+    "path": "/user",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\user.vue",
+    "chunkName": "pages/user"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\project\\\\lds-ciheba\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]
